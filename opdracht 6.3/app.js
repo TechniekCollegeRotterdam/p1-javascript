@@ -3,8 +3,7 @@ let button = document.getElementById('button');
 
 function kleur_aanpassen() {//Begin van de function.
     title.style.color = 'red';//Kleur veranderd van de h1 element.
-    title.innerText = 'Text en kleur aangepast';//Veranderd de tekst van de h1 element.
+    title.innerText = 'Salah is nu rood geworden';//Veranderd de tekst van de h1 element.
 }//Einde van de function.
 
-//Is de kleur veranderd?
-//ja
+//Is de kleur veranderd? Ja.
